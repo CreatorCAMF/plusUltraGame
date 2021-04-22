@@ -54,20 +54,27 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CharacterName.cs" />
+     <Compile Include="Assets\Scripts\das.cs" />
+     <Compile Include="Assets\Scripts\displayName.cs" />
+     <Compile Include="Assets\Scripts\displayName2.cs" />
+     <Compile Include="Assets\Scripts\HealthBar.cs" />
      <Compile Include="Assets\Scripts\mueveteEsteban.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\QuitGame.cs" />
      <Compile Include="Assets\Scripts\SinglePlayer.cs" />
+     <Compile Include="Assets\Scripts\Split.cs" />
+     <Compile Include="Assets\Scripts\SwitchScene.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Mother & Papo/Desktop/3DGAME/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Mother & Papo/Desktop/PlusUltra/plusUltraGame/3DGAME/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Mother & Papo/Desktop/3DGAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mother & Papo/Desktop/PlusUltra/plusUltraGame/3DGAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Mother & Papo/Desktop/3DGAME/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Mother & Papo/Desktop/PlusUltra/plusUltraGame/3DGAME/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Mother & Papo/Desktop/3DGAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Mother & Papo/Desktop/PlusUltra/plusUltraGame/3DGAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

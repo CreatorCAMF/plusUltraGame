@@ -21,7 +21,7 @@ public class mueveteEsteban : MonoBehaviour
     private float moves2s;
     private float movefb;
     private float moveud;
-    private float gravity = -9.81f;
+    private float gravity = 0f;
     private bool isGrounded;
 
     private Vector3 movimiento;
@@ -32,7 +32,7 @@ public class mueveteEsteban : MonoBehaviour
 
     public GameObject magicSphere;
     public LayerMask groundMask;
-    private float radious = 0.2f;
+    //private float radious = 0.2f;
     
 
 

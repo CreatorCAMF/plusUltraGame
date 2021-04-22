@@ -6,7 +6,7 @@ public class QuitGame : MonoBehaviour {
 
 	public void quitGameFromMenu()
 	{
-		UnityEditor.EditorApplication.isPlaying = false;
+		//UnityEditor.EditorApplication.isPlaying = false;
 		Application.Quit();
 	}
 }

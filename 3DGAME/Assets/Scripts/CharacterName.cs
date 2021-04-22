@@ -5,12 +5,15 @@ using UnityEngine.UI;
 
 public class CharacterName : MonoBehaviour {
 
-	public string name;
+	public string charName;
+	public static string character_name;
 	public GameObject InputField;
-	public GameObject textDisplay;
+	//public GameObject textDisplay;
 	
 	public void StoreName()
 	{
-		name = InputField.GetComponent<Text>().text;
+		charName = InputField.GetComponent<Text>().text;
+		//textDisplay.GetComponent<Text>().text = charName;
+		character_name = charName;
 	}
 }
